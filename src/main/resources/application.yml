@@ -1,0 +1,9 @@
+spring:
+  jpa:
+    hibernate:
+      auto:
+        update:
+          ddl: true
+    show:
+      sql: true
+

@@ -1,0 +1,1 @@
+Spring Boot CRUD Example with MapStruct,H2 DB
